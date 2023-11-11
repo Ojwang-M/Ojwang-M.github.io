@@ -3,6 +3,4 @@ layout: about
 title: About
 ---
 
-## About
-
-Hi, nice to meet you.
+## Hi ,I'm Moses Ojwang ,currently a forth year student doing Electronic and Computer Engineering and I would like to delve into tech.
